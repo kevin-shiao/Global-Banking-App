@@ -1,0 +1,30 @@
+{
+  "bankUsers": [
+    {
+      "id": 55,
+      "name": "John",
+      "Number of Accounts": 1,
+      "Accounts": [
+        {
+          "Account Name": "Savings",
+          "Account Balance": 500,
+          "Account Currency": "CAD",
+          "Transactions": [
+            {
+              "Transaction Type": "Deposit",
+              "Transaction Amount": "50",
+              "Transaction Currency": "CAD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Jim",
+      "Number of Accounts": 0,
+      "Accounts": []
+    }
+  ],
+  "name": "TD"
+}

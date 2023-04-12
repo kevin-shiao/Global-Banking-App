@@ -1,0 +1,17 @@
+{
+    "bankUsers": [
+        {
+            "name": "Mike",
+            "Number of Accounts": 0,
+            "id": 60,
+            "Accounts": []
+        },
+        {
+            "name": "Pat",
+            "Number of Accounts": 0,
+            "id": 61,
+            "Accounts": []
+        }
+    ],
+    "name": "Bank of America"
+}
